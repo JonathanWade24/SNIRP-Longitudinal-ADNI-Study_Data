@@ -1,0 +1,2 @@
+ID,effect,group,term,estimate,std.error,statistic,df,p.value,Outcome_Variable,Avg_R_squared,Avg_RMSE,BIC,p.value.adjusted
+21,fixed,,new_injury_severity2,0.046073048878346,0.0207467700931997,2.220733573051334,733.1861831422369,0.0266738810242365,Right Lateral Ventricle,0.0746534066277775,0.1506326760876651,-11419.16331280593,0.0485355972856137

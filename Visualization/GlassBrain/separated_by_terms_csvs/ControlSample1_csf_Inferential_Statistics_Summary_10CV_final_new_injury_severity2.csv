@@ -1,0 +1,4 @@
+ID,effect,group,term,estimate,std.error,statistic,df,p.value,Outcome_Variable,Avg_R_squared,Avg_RMSE,BIC,p.value.adjusted
+23,fixed,,new_injury_severity2,0.003526033,0.001256033,2.807276533,731.6542548,0.005129206,Right Pallidum,0.01960195,0.008459667,-32083.21914,0.012237038
+41,fixed,,new_injury_severity2,0.032712694,0.010832708,3.019807594,744.7679565,0.00261579,Right AOrG anterior orbital gyrus,0.222179455,0.079078727,-13854.17113,0.006572172
+42,fixed,,new_injury_severity2,0.02832602,0.010708878,2.645096866,746.0282935,0.008338601,Left AOrG anterior orbital gyrus,0.182200619,0.078543314,-13933.87588,0.01918236
