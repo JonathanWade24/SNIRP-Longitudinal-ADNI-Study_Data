@@ -1,0 +1,73 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# R specific files
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# Python specific files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Archives and compressed files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Large data files (consider using Git LFS for these)
+*.csv
+*.xlsx
+*.xls
+
+# Shiny deployment files
+rsconnect/
+
+# Generated documentation
+*.html
+*.pdf
+*.docx
+*.rtf
+*.png
+*.jpg
+*.jpeg
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Log files
+*.log
+
+# Generated analysis results
+*_final.csv
+*_results.csv
+*_summary.csv
+
+# Specific project files that should be ignored
+Demographics_Table_Creation.zip
+Final Results.zip
+Archive.zip
+Table1_demographics_by_TBI.*
+Table1_demographics_formatted.csv
+README_Demographics_Table.md
